@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1743720150 source:c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\main.cpp
+	<iostream>
+	"Menu.h"
+
+1743661292 c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1743719971 c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\include\inventario.h
+	<iostream>
+	<vector>
+
+1743662159 c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1743662159 source:c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1743661154 source:c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\src\menu.cpp
+	"Menu.h"
+
+1743662512 source:c:\users\usuario\desktop\kevin\programación 1\juegos\sistemainventarios\src\inventario.cpp
+	"Inventario.h"
+
