@@ -130,3 +130,38 @@
 1743733718 source:c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\src\producto.cpp
 	"Producto.h"
 
+1743732294 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\main.cpp
+	<iostream>
+	"Menu.h"
+
+1743732294 c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1743734387 c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\include\inventario.h
+	<vector>
+	"Producto.h"
+
+1743734745 c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\include\producto.h
+	<string>
+
+1743734660 c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1743732294 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1743734387 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\src\producto.cpp
+	"Producto.h"
+
+1743734387 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\src\inventario.cpp
+	"Inventario.h"
+	<iostream>
+
+1743734656 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\src\menu.cpp
+	"Menu.h"
+

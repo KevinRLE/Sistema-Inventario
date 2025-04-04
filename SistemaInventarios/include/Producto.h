@@ -14,3 +14,4 @@ public:
 
     Producto(int _codigo, std::string _nombre, float _precio, int _stock, std::string _tipo);
 };
+#endif

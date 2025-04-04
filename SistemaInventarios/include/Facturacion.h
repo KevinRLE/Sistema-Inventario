@@ -23,5 +23,4 @@ public:
     ~Facturacion();
     void generarFactura(Inventario& inventario);
 };
-
 #endif
