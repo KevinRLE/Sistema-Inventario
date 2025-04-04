@@ -99,3 +99,34 @@
 1743733489 c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\include\producto.h
 	<string>
 
+1743730254 source:c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\main.cpp
+	<iostream>
+	"Menu.h"
+
+1743730254 c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1743733880 c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\include\inventario.h
+	<vector>
+	"Producto.h"
+
+1743733718 c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\include\producto.h
+	<string>
+
+1743730254 c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1743730254 source:c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1743730254 source:c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\src\menu.cpp
+	"Menu.h"
+
+1743733718 source:c:\users\ferit\documents\progra1git\sistema-inventario\sistemainventarios\src\producto.cpp
+	"Producto.h"
+
