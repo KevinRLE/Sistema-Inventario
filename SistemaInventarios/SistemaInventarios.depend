@@ -65,3 +65,37 @@
 	<iomanip>
 	"Inventario.h"
 
+1743725104 source:c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\main.cpp
+	<iostream>
+	"Menu.h"
+
+1743725104 c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1743725104 c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\include\inventario.h
+	<iostream>
+	<vector>
+
+1743725104 c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1743725104 source:c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1743725104 source:c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\src\inventario.cpp
+	"Inventario.h"
+
+1743725104 source:c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\src\menu.cpp
+	"Menu.h"
+
+1743733271 source:c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\src\producto.cpp
+	"Producto.h"
+
+1743733489 c:\users\macoh\onedrive\documents\programacion\progra1\sistema-inventario\sistemainventarios\include\producto.h
+	<string>
+
