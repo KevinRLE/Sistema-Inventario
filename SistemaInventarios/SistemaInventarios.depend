@@ -165,3 +165,38 @@
 1743734656 source:c:\users\lava2\documents\umg\2025\progra 1\inventarios\sistema-inventario\sistemainventarios\src\menu.cpp
 	"Menu.h"
 
+1743720147 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\facturacion.cpp
+	"Facturacion.h"
+
+1743741723 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\facturacion.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Inventario.h"
+
+1743741723 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\inventario.h
+	<vector>
+	"Producto.h"
+
+1743741723 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\producto.h
+	<string>
+
+1743741723 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\inventario.cpp
+	"Inventario.h"
+	<iostream>
+
+1743741723 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\menu.cpp
+	"Menu.h"
+
+1743661292 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\menu.h
+	<iostream>
+	"Inventario.h"
+	"Facturacion.h"
+
+1743741723 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\producto.cpp
+	"Producto.h"
+
+1743741776 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\main.cpp
+	<iostream>
+	"Menu.h"
+
