@@ -1,19 +1,23 @@
 #include <iostream>
+#include "Usuario.h"
 #include "Menu.h"
-
-//Menú Kevin
+#include "Inventario.h"
+#include "Facturacion.h"
 using namespace std;
 
-
+usuarios usuarioRegistrado;
+Menu menu;
 
 int main() {
-    Inventario inventario;
-    Facturacion factura;
-    Menu menu;
+    bool accesoUsuarios = usuarioRegistrado.loginUsuarios();
 
-    menu.mostrarOpciones(inventario, factura);
+    if (accesoUsuarios) {
+        Inventario inventario;  // Instanciar Inventario
+        Facturacion factura;    // Instanciar Facturacion
+        menu.mostrarOpciones(inventario, factura); // Llamar menú pasando los objetos
+    }
 
+    system("cls");
+    cout << "* Hasta la próxima *" << endl;
     return 0;
 }
-
-

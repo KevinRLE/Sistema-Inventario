@@ -1,0 +1,7 @@
+kevin          100            LOGS           
+Inventario inventario;100            LOGF           
+kevin          100            LOGS           
+Inventario inventario;100            LOGF           
+kevin          100            LOGS           
+kevin          100            LOGS           
+kevin          100            LOGS           

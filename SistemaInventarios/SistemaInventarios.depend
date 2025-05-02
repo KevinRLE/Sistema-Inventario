@@ -196,7 +196,34 @@
 1743741723 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\producto.cpp
 	"Producto.h"
 
-1743741776 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\main.cpp
+1745856115 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\main.cpp
 	<iostream>
+	"Usuario.h"
 	"Menu.h"
+	"Inventario.h"
+	"Facturacion.h"
+
+1745854714 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\bitacora.cpp
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1745854714 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\bitacora.h
+	<iostream>
+
+1745854567 source:c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\src\usuario.cpp
+	"Usuario.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<sstream>
+	"Bitacora.h"
+
+1745851826 c:\users\usuario\documents\progra\programación 1\sistema-inventario\sistemainventarios\include\usuario.h
+	<iostream>
 

@@ -1,10 +1,10 @@
-#include "usuarios.h"
+#include "Usuario.h"
 #include <fstream>
 #include <cstdlib>
 #include <conio.h>
 #include <iostream>
 #include <sstream> // Agregado para procesar cada línea
-#include "bitacora.h"
+#include "Bitacora.h"
 
 using namespace std;
 
