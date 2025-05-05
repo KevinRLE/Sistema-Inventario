@@ -1,3 +1,4 @@
+//prueba
 #include "Bitacora.h"
 #include<iostream>
 #include<fstream>
